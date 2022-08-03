@@ -1,0 +1,18 @@
+{
+  "name": "handlebars4-api",
+  "version": "4.7.7",
+  "description": "Handlebars4 Jenkins Plugin",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenkinsci/handlebars4-api-plugin.git"
+  },
+  "author": "Julien Greffe",
+  "license": "MIT",
+  "homepage": "https://github.com/jenkinsci/handlebars4-api-plugin#readme"
+}

@@ -1,0 +1,12 @@
+<?jelly escape-by-default='true'?>
+<!--
+Use it like <st:adjunct includes="io.jenkins.plugins.bootstrap5"/>
+-->
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler">
+
+  <j:new var="h" className="hudson.Functions" />
+  ${h.initPageVariables(context)}
+  
+  <script type="text/javascript" src="${resURL}/plugin/handlebars4-api/js/handlebars.min.js"/>
+</j:jelly>
+

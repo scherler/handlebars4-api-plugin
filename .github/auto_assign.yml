@@ -1,0 +1,10 @@
+addReviewers: false
+addAssignees: true
+
+assignees:
+  - jgreffe
+
+skipKeywords:
+  - wip
+
+numberOfAssignees: 0
