@@ -12,7 +12,7 @@
   <groupId>io.jenkins.plugins</groupId>
   <packaging>hpi</packaging>
   <name>Handlebars 4 API Plugin</name>
-  <version>${revision}${changelist}</version>
+  <version>${revision}-${changelist}</version>
 
   <url>https://github.com/jenkinsci/handlebars4-api-plugin</url>
 
@@ -20,11 +20,10 @@
 
   <properties>
     <revision>4.7.7</revision>
-    <changelist>-SNAPSHOT</changelist>
+    <changelist>999999-SNAPSHOT</changelist>
     <module.name>${project.groupId}.handlebars4</module.name>
     <node.version>18.7.0</node.version>
     <npm.version>8.15.0</npm.version>
-<!--    <jenkins.version>2.303.1</jenkins.version>-->
   </properties>
 
   <licenses>
