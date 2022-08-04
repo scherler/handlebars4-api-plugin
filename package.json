@@ -8,6 +8,10 @@
   "dependencies": {
     "handlebars": "^4.7.7"
   },
+  "scripts": {
+    "mvnbuild": "echo \"Nothing special, we just need the handlebars minified JS from node_modules\"",
+    "mvntest": "echo \"Nothing special, we just need the handlebars minified JS from node_modules\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jenkinsci/handlebars4-api-plugin.git"
