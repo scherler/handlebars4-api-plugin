@@ -1,6 +1,6 @@
 <?jelly escape-by-default='true'?>
 <!--
-Use it like <st:adjunct includes="io.jenkins.plugins.bootstrap5"/>
+Use it like <st:adjunct includes="io.jenkins.plugins.handlebars4"/>
 -->
 <j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler">
 
